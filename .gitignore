@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local/editor noise
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Accidental scratch files
+**/k.t
