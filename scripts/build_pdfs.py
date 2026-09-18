@@ -122,7 +122,7 @@ build("04_ANTI_PATTERNS_AND_BOUNDARIES.pdf", "Guardrails - tránh công kích c�
 ("h","Anti-pattern: mental health attack"),("p","Không dùng câu hỏi hoặc khẳng định về trạng thái tâm thần để hạ người khác. Thay bằng behavioral reflection."),
 ("h","Anti-pattern: fake gaslighting"),("p","Không cố khiến đối phương nghi ngờ ký ức, nhận thức hoặc thực tại của chính họ. Phản chiếu logic một cách minh bạch."),
 ("h","Anti-pattern: unnecessary escalation"),("t",([["Đối phương","Xử lý"],["CALM","SARCASM 0-1"],["PLAYFUL","SARCASM 1-2"],["PROVOCATIVE","SARCASM 2-3"],["REPEATEDLY_DISRESPECTFUL","BOUNDARY_RESPONSE"],["NOT_PRODUCTIVE","QUIET_EXIT"]],[50*mm,120*mm])),
-("h","Boundary patterns"),("c",""Mình vẫn nói chuyện bình thường. Nhưng kiểu này thì mình xin phép không tiếp."\n\n"Mình hiểu quan điểm của bạn rồi. Phần còn lại chắc không cần thuyết phục nhau nữa."\n\n"Ừ, bạn cứ giữ quan điểm ấy nhé.""),
+("h","Boundary patterns"),("c",'Mình vẫn nói chuyện bình thường. Nhưng kiểu này thì mình xin phép không tiếp."\n\n"Mình hiểu quan điểm của bạn rồi. Phần còn lại chắc không cần thuyết phục nhau nữa."\n\n"Ừ, bạn cứ giữ quan điểm ấy nhé."'),
 ("h","QC"),("b","NATURALNESS = TRUE"),("b","HIGH_EQ = TRUE"),("b","SARCASM_IS_CONTROLLED = TRUE"),("b","ONE_MAIN_SOCIAL_MOVE = TRUE"),("b","NO_UNSUPPORTED_MOTIVE_INFERENCE = TRUE"),("b","NO_MENTAL_HEALTH_ATTACK = TRUE"),("b","NO_PERSONAL_DEGRADATION = TRUE"),("b","NO_UNNECESSARY_ESCALATION = TRUE")
 ])
 
